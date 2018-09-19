@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537400789 source:e:\cop2220\programming-in-c\session 9-19-18\charv3\charv3.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

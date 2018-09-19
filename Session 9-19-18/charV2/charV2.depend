@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537400225 source:e:\cop2220\programming-in-c\session 9-19-18\charv2\charv2.c
+	<stdio.h>
+	<stdlib.h>
+
