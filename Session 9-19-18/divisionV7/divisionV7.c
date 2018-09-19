@@ -22,6 +22,7 @@ int main()
     counter = counter + 1; //same as : counter++
     while(D == 0 && counter != 3) //think about allowing user to repeat input for a good D
     {
+        printf("Sorry! cannot divide by zero...\n");
         printf("Enter D: ");
         scanf("%lf", &D);
         counter++;
