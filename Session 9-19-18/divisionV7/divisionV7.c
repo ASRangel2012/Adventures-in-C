@@ -51,3 +51,6 @@ double divide(double N, double D) //does not matter what you call these argument
 
 return (N / D);
 }//end
+
+
+//TO DO: CODE THE INPUT AND THE OUTPUT AS SEPARATE FUNCTIONS
