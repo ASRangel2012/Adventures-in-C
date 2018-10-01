@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1538351715 source:e:\cop2220\programming-in-c\session 9_26_18\loan_app\loan_app_aasr.c
+	<stdio.h>
+	<stdlib.h>
+
